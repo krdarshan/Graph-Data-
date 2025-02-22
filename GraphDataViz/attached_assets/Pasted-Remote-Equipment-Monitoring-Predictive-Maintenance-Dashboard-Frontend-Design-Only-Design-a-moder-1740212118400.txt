@@ -1,0 +1,25 @@
+Remote Equipment Monitoring & Predictive Maintenance Dashboard (Frontend Design Only)
+Design a modern, visually intuitive IoT-enabled dashboard using React and Tailwind CSS to monitor real-time equipment performance. The dashboard should integrate dynamic graphs, status indicators, alerts, and interactive UI components to provide actionable insights for predictive maintenance.
+
+Core Features & Sections:
+✅ Sidebar Navigation: A clean, collapsible sidebar with categorized menu items (Dashboard, Fuel Consumption, Operating Hours, Settings, History, etc.).
+✅ Search & Notifications: A top navigation bar with a search function and an anomaly detection notification system for real-time issue alerts.
+✅ Predictive Maintenance Insights: A central section showing real-time vibration levels, failure predictions, and abnormality detection with clear trend graphs.
+✅ Interactive Data Visualizations:
+
+Bar charts for historical performance comparison.
+Donut/pie charts for equipment status distribution (Active, Faulty, Warning).
+Line charts for trend analysis of metrics like fuel consumption and operating hours.
+✅ Maintenance Alerts & Reports: Sections highlighting upcoming maintenance needs with report buttons for deeper insights.
+✅ Equipment Status Overview: A section displaying key metrics like vibration frequency, fuel usage, operating hours, and temperature with colored indicators for normal vs. abnormal states.
+✅ Live Status Updates: Real-time numerical and graphical data representation showing live equipment health, changes over time, and percentage comparisons with past data.
+Design & User Experience:
+🚀 Sleek, minimalistic, and professional UI with a light theme and soft colors for clarity.
+📊 Responsive, mobile-friendly layout ensuring seamless usage across different devices.
+⚡ Dummy data integration for realistic graph simulations, ensuring smooth UI/UX.
+🎨 Tailwind CSS for styling with consistent spacing, typography, and color-coded alerts for easy readability.
+📈 Recharts or Chart.js for data visualization, making graphs interactive and appealing.
+
+Expected Outcome:
+A high-quality predictive maintenance dashboard with a modern UI, interactive charts, and real-time alerts, giving users clear and actionable insights into equipment health and performance trends.
+
